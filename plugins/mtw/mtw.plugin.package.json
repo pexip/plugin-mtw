@@ -1,0 +1,19 @@
+{
+  "id": "mtw-plugin-1.0",
+  "name": "mtw",
+  "description": "Move participant back to waiting screen",
+  "version": 1.0,
+  "srcURL": "mtw.plugin.js",
+  "allowUnload": false,
+  "platforms": ["web", "electron", "ios", "android"],
+  "participantRoles": ["chair", "guest"],
+  "menuItems": {
+    "participants": [
+      {
+        "icon": null,
+        "label": null,
+        "action": "movetoWaiting"
+      }
+    ]
+  }
+}

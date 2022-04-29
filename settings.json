@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "mtw-plugin-1.0",
+      "srcURL": "plugins/mtw/mtw.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
