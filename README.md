@@ -1,3 +1,3 @@
 # Move To Waiting Room Plugin
 
-For documentation on the plugin, please refer to our docs [here](https://developer.pex.me/plugins/mtw)
+For documentation on the plugin, please refer to our docs [here](https://developer.pex.me/plugins/move-to-waiting-room)
