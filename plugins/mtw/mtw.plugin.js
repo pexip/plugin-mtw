@@ -16,7 +16,7 @@
       participants.map(participant => {
         if (participant.canTransfer === true && (participant.protocol == "api" || participant.protocol == "webrtc")) {
           state = {
-            [participant.uuid]: {icon: "asstes/images/grid.svg#grid", label: "Move to waiting screen"}, icon: "assets/images/grid.svg#grid"
+            [participant.uuid]: {icon: "assets/images/grid.svg#grid", label: "Move to waiting screen"}, icon: "assets/images/grid.svg#grid"
           }
         } else {
             state = {
